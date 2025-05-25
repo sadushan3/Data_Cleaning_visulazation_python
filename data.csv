@@ -1,0 +1,501 @@
+Title,Genre,Release_Year,Seasons,Rating,Viewership_Millions
+Narcos,Comedy,2010,2,7.9,75.0
+Elite,Thriller,2019,1,6.2,24.0
+Elite,Thriller,2022,6,8.6,43.0
+Black Mirror,Crime,2009,6,6.2,59.0
+Narcos,Crime,2009,2,6.8,47.0
+Sex Education,Thriller,2014,2,6.5,88.0
+Ozark,Fantasy,2005,3,,19.0
+Ozark,Action,2018,4,7.1,38.0
+Black Mirror,Sci-Fi,2009,1,6.9,42.0
+Black Mirror,Sci-Fi,2015,5,6.5,26.0
+The Witcher,,2009,5,9.1,31.0
+Narcos,Drama,2012,1,8.8,87.0
+The Crown,Drama,2012,5,6.0,24.0
+Money Heist,Action,2012,5,9.0,84.0
+Ozark,Fantasy,2010,4,8.4,81.0
+Stranger Things,Crime,2007,4,8.2,49.0
+The Witcher,Thriller,2018,5,6.6,67.0
+Lucifer,Fantasy,2006,1,7.3,65.0
+Breaking Bad,Crime,2007,5,9.3,91.0
+Elite,Comedy,2007,6,8.0,
+The Umbrella Academy,Drama,2014,3,6.1,
+Dark,Thriller,2005,6,6.8,74.0
+The Umbrella Academy,Crime,2007,2,7.9,56.0
+Black Mirror,Action,2011,6,9.1,38.0
+Elite,Fantasy,2006,2,6.6,53.0
+Dark,Comedy,2010,1,6.9,44.0
+Elite,Comedy,2013,2,,38.0
+Lupin,Sci-Fi,2006,5,7.0,92.0
+Black Mirror,Thriller,2006,5,,17.0
+You,Action,2020,6,8.7,64.0
+Elite,Action,2009,2,9.4,95.0
+The Umbrella Academy,Action,2009,5,8.4,80.0
+The Crown,Crime,2008,5,9.2,81.0
+Sex Education,Sci-Fi,2011,2,6.9,
+Elite,Comedy,2015,1,8.9,49.0
+Stranger Things,Fantasy,2017,1,6.1,50.0
+Money Heist,Comedy,2013,6,6.4,40.0
+Narcos,Comedy,2005,1,6.6,
+Narcos,Crime,2020,4,9.1,22.0
+The Witcher,Sci-Fi,2017,6,8.6,75.0
+Dark,Drama,2011,2,8.3,81.0
+Dark,Sci-Fi,2020,4,8.4,
+The Umbrella Academy,Comedy,2017,4,,82.0
+The Crown,,2017,2,,45.0
+Elite,Fantasy,2018,6,6.4,72.0
+You,Thriller,2007,3,9.4,95.0
+Elite,Action,2018,4,9.0,76.0
+Stranger Things,Thriller,2022,4,7.7,96.0
+The Umbrella Academy,Thriller,2019,5,6.0,74.0
+Lupin,Comedy,2006,4,8.3,38.0
+Elite,Fantasy,2022,6,8.2,28.0
+The Umbrella Academy,,2012,2,6.4,71.0
+Ozark,Thriller,2013,2,,53.0
+Ozark,Thriller,2014,6,8.9,34.0
+The Umbrella Academy,Thriller,2019,2,9.1,41.0
+The Crown,Fantasy,2005,5,8.6,85.0
+Stranger Things,Comedy,2012,3,,88.0
+The Crown,Comedy,2005,2,7.0,16.0
+The Umbrella Academy,Action,2013,3,9.2,
+The Umbrella Academy,Fantasy,2020,6,9.2,34.0
+Elite,Action,2021,3,7.3,
+Black Mirror,Comedy,2011,4,9.4,99.0
+The Crown,Drama,2007,6,6.5,82.0
+Narcos,Action,2017,2,6.6,
+Dark,Thriller,2011,1,6.6,80.0
+Elite,Crime,2017,5,,59.0
+Ozark,Comedy,2013,3,8.4,71.0
+Sex Education,Thriller,2013,2,8.7,41.0
+Elite,Drama,2017,2,7.4,25.0
+Money Heist,Drama,2016,3,6.6,84.0
+Breaking Bad,Crime,2010,4,9.0,72.0
+Money Heist,Fantasy,2010,1,8.6,
+Ozark,Action,2013,2,,83.0
+Elite,Sci-Fi,2022,6,6.2,85.0
+The Crown,Drama,2008,1,8.7,93.0
+The Witcher,Fantasy,2007,6,7.2,28.0
+Narcos,Comedy,2006,4,6.2,
+Lucifer,Sci-Fi,2007,6,,49.0
+Lucifer,Thriller,2017,2,9.4,25.0
+Money Heist,Crime,2009,4,9.3,91.0
+The Umbrella Academy,Crime,2005,2,9.2,14.0
+The Crown,Thriller,2012,3,6.9,49.0
+Dark,Fantasy,2022,6,6.6,31.0
+The Witcher,,2015,3,7.2,72.0
+The Umbrella Academy,Comedy,2019,1,7.1,84.0
+Sex Education,Comedy,2015,1,6.1,17.0
+The Crown,Comedy,2006,1,7.2,20.0
+You,Drama,2019,6,6.2,10.0
+Narcos,Fantasy,2008,3,8.5,34.0
+Dark,Drama,2012,6,8.5,62.0
+Sex Education,Drama,2008,2,7.7,82.0
+The Crown,Fantasy,2006,4,8.6,51.0
+Ozark,Action,2006,2,9.4,74.0
+You,Drama,2008,6,7.0,41.0
+Dark,,2009,3,,33.0
+Sex Education,Action,2019,4,6.3,49.0
+Dark,Action,2022,1,9.0,67.0
+Lupin,Sci-Fi,2009,2,7.1,
+Narcos,Crime,2020,1,8.3,61.0
+Ozark,Action,2012,6,7.0,42.0
+Narcos,Sci-Fi,2018,1,8.1,42.0
+Dark,Crime,2022,3,7.2,81.0
+Ozark,Action,2019,4,8.5,33.0
+You,Sci-Fi,2018,3,8.1,82.0
+Stranger Things,Sci-Fi,2013,3,9.0,77.0
+The Crown,,2008,6,7.3,76.0
+Sex Education,Comedy,2020,3,9.0,27.0
+Ozark,Drama,2022,6,7.3,71.0
+The Crown,Drama,2007,2,9.1,68.0
+Lupin,,2019,1,8.2,31.0
+Dark,Comedy,2017,6,8.1,16.0
+Stranger Things,Action,2008,3,6.5,90.0
+Narcos,Fantasy,2010,2,7.5,94.0
+Black Mirror,Comedy,2006,5,6.1,33.0
+Money Heist,Fantasy,2006,4,,13.0
+Narcos,Thriller,2014,2,,
+Lupin,Thriller,2015,4,9.2,43.0
+Breaking Bad,,2018,6,9.2,80.0
+The Umbrella Academy,Sci-Fi,2006,4,6.6,52.0
+The Crown,Crime,2010,6,6.9,13.0
+Elite,Sci-Fi,2018,1,7.7,69.0
+The Witcher,Sci-Fi,2007,3,7.7,60.0
+The Witcher,Comedy,2012,3,7.8,19.0
+Money Heist,Fantasy,2005,2,6.4,
+Narcos,Sci-Fi,2021,6,6.8,57.0
+Elite,Crime,2015,5,6.9,
+Lucifer,,2019,3,6.3,94.0
+Money Heist,Comedy,2006,1,7.5,97.0
+Stranger Things,Comedy,2011,1,6.3,55.0
+The Umbrella Academy,,2013,3,8.5,84.0
+Ozark,Crime,2014,5,8.4,28.0
+The Crown,Thriller,2015,5,9.5,39.0
+Lucifer,Comedy,2018,1,9.3,89.0
+The Witcher,Thriller,2018,6,6.4,36.0
+The Umbrella Academy,Sci-Fi,2015,4,9.1,72.0
+Lupin,,2019,6,8.6,66.0
+The Umbrella Academy,Comedy,2019,6,8.5,56.0
+Money Heist,Fantasy,2022,2,8.5,81.0
+Narcos,Crime,2007,2,8.2,
+The Umbrella Academy,Thriller,2019,2,7.8,67.0
+Dark,Thriller,2011,2,6.5,27.0
+Black Mirror,Thriller,2006,3,7.7,22.0
+Ozark,Fantasy,2007,3,8.1,21.0
+Narcos,,2014,1,7.6,32.0
+Sex Education,Crime,2016,4,8.3,72.0
+Ozark,Comedy,2015,6,6.1,
+You,Crime,2007,5,8.3,79.0
+Money Heist,Crime,2022,5,7.3,
+The Witcher,Thriller,2009,3,7.3,91.0
+Dark,Fantasy,2018,3,8.6,77.0
+Ozark,Crime,2012,6,6.3,39.0
+Dark,Drama,2008,5,8.8,78.0
+Breaking Bad,Fantasy,2015,6,6.1,98.0
+Black Mirror,Crime,2019,5,9.4,10.0
+Sex Education,Action,2012,1,7.4,45.0
+You,Sci-Fi,2014,2,7.9,98.0
+Black Mirror,Sci-Fi,2012,3,7.7,94.0
+Black Mirror,Action,2008,4,6.5,72.0
+Money Heist,Thriller,2010,4,7.6,42.0
+Lupin,Thriller,2005,2,7.1,99.0
+Lucifer,Drama,2015,5,6.9,14.0
+The Umbrella Academy,Fantasy,2019,1,,93.0
+Black Mirror,Drama,2022,6,7.7,12.0
+Dark,Crime,2021,2,7.5,56.0
+Black Mirror,Comedy,2014,5,6.6,14.0
+Stranger Things,,2019,3,8.9,89.0
+The Umbrella Academy,Crime,2013,6,7.9,18.0
+Black Mirror,Thriller,2015,6,7.6,61.0
+Stranger Things,Sci-Fi,2008,1,7.7,12.0
+Narcos,Fantasy,2021,1,6.3,10.0
+Lucifer,Thriller,2022,4,9.1,
+Dark,,2017,3,,40.0
+Sex Education,Comedy,2018,5,9.4,75.0
+The Umbrella Academy,Action,2016,4,8.7,79.0
+Narcos,Thriller,2012,3,6.0,62.0
+Black Mirror,Thriller,2008,3,6.7,
+Elite,Drama,2019,3,9.3,10.0
+Breaking Bad,Drama,2019,4,8.0,22.0
+Breaking Bad,Crime,2017,1,8.0,
+Elite,Fantasy,2014,2,8.6,
+The Umbrella Academy,Sci-Fi,2018,1,8.3,59.0
+The Witcher,Crime,2020,4,7.9,
+The Umbrella Academy,Fantasy,2005,4,8.9,44.0
+Black Mirror,Fantasy,2020,4,7.6,15.0
+Dark,Comedy,2012,4,7.5,26.0
+Lupin,Fantasy,2012,1,8.0,
+The Witcher,Thriller,2010,4,9.5,48.0
+Stranger Things,Fantasy,2005,4,7.9,69.0
+Sex Education,,2008,3,,97.0
+Sex Education,Thriller,2009,5,9.0,95.0
+Sex Education,Action,2020,5,7.2,18.0
+Elite,Fantasy,2011,3,8.0,58.0
+Money Heist,Fantasy,2015,2,7.7,79.0
+Ozark,,2008,2,6.8,33.0
+Ozark,Sci-Fi,2019,1,7.6,87.0
+Lupin,Sci-Fi,2005,2,8.0,82.0
+Stranger Things,Thriller,2009,6,9.3,67.0
+Elite,Comedy,2013,2,8.1,18.0
+Stranger Things,Sci-Fi,2007,2,7.3,85.0
+Narcos,Drama,2021,4,6.4,85.0
+Sex Education,Sci-Fi,2011,1,6.7,42.0
+Breaking Bad,Crime,2006,1,8.2,47.0
+The Umbrella Academy,Comedy,2011,2,6.6,90.0
+Money Heist,Crime,2011,5,,96.0
+Black Mirror,Thriller,2022,3,,91.0
+Money Heist,Sci-Fi,2006,2,7.8,67.0
+Elite,Fantasy,2016,3,9.0,
+Black Mirror,Comedy,2021,1,7.4,96.0
+Sex Education,Sci-Fi,2011,1,7.2,91.0
+Narcos,Action,2020,5,8.1,96.0
+Elite,Fantasy,2009,3,,26.0
+Black Mirror,Sci-Fi,2006,6,8.3,52.0
+Breaking Bad,Action,2021,5,7.9,49.0
+Ozark,Thriller,2011,5,,64.0
+Lucifer,Action,2009,1,8.7,93.0
+Elite,Crime,2017,5,7.6,82.0
+Stranger Things,Thriller,2006,6,6.9,44.0
+Narcos,Thriller,2012,5,8.0,12.0
+Lucifer,Crime,2012,1,7.2,80.0
+Sex Education,Action,2012,2,9.4,69.0
+You,Comedy,2013,1,9.2,11.0
+Sex Education,Thriller,2006,5,8.9,57.0
+Money Heist,Fantasy,2017,4,6.7,15.0
+Sex Education,Drama,2010,2,6.1,40.0
+Dark,Drama,2008,5,9.4,38.0
+Narcos,Crime,2012,2,7.9,39.0
+Breaking Bad,Drama,2012,2,,
+Black Mirror,Thriller,2016,2,6.0,50.0
+The Crown,Crime,2017,5,6.2,32.0
+Stranger Things,Drama,2022,6,6.5,
+Lucifer,Drama,2019,1,9.5,67.0
+Black Mirror,,2020,4,8.5,79.0
+You,Action,2008,6,6.3,15.0
+Ozark,,2021,4,6.2,34.0
+Ozark,Sci-Fi,2010,2,7.6,53.0
+The Umbrella Academy,Action,2020,1,6.0,83.0
+Money Heist,Action,2017,4,9.4,75.0
+Money Heist,Action,2010,6,8.8,50.0
+You,Crime,2006,2,,12.0
+Stranger Things,Comedy,2009,6,7.9,27.0
+Narcos,,2016,1,6.1,30.0
+Lupin,,2007,3,9.0,40.0
+Money Heist,,2016,1,8.4,86.0
+Breaking Bad,Fantasy,2011,4,7.0,67.0
+Lucifer,Thriller,2022,4,6.9,
+Lucifer,Action,2010,2,9.3,46.0
+The Witcher,Drama,2022,3,7.1,13.0
+Dark,Fantasy,2009,4,6.1,64.0
+The Crown,Drama,2006,3,9.4,75.0
+Breaking Bad,Drama,2010,4,7.1,38.0
+Elite,Drama,2012,6,8.6,64.0
+The Umbrella Academy,Comedy,2012,6,7.7,14.0
+Lucifer,Thriller,2014,4,8.4,17.0
+Black Mirror,Crime,2013,5,8.4,55.0
+Narcos,,2020,2,6.3,98.0
+The Witcher,Sci-Fi,2010,3,8.4,71.0
+Dark,,2020,5,8.9,11.0
+You,,2016,6,6.7,44.0
+The Umbrella Academy,Fantasy,2006,4,7.0,62.0
+The Umbrella Academy,Crime,2016,5,8.9,45.0
+Lucifer,,2007,1,8.5,90.0
+Lucifer,Sci-Fi,2021,5,7.1,56.0
+Breaking Bad,Crime,2013,5,8.3,49.0
+Elite,Drama,2016,1,6.0,78.0
+Lucifer,Drama,2017,3,8.4,12.0
+Narcos,,2010,3,6.5,40.0
+Elite,Crime,2017,5,6.4,10.0
+Stranger Things,Sci-Fi,2010,2,,32.0
+You,Action,2009,5,8.9,93.0
+Dark,Fantasy,2020,4,9.0,
+Elite,Comedy,2019,1,6.6,42.0
+Stranger Things,Crime,2022,1,9.4,99.0
+You,Sci-Fi,2012,4,7.4,44.0
+Breaking Bad,,2011,1,9.2,24.0
+Lucifer,Crime,2011,5,8.7,98.0
+The Umbrella Academy,Crime,2010,4,7.4,70.0
+Breaking Bad,Comedy,2021,1,8.8,38.0
+Money Heist,Comedy,2010,1,8.4,52.0
+Elite,Fantasy,2019,2,9.0,78.0
+Lupin,Thriller,2022,4,6.2,78.0
+Narcos,Drama,2014,4,6.4,45.0
+Black Mirror,Drama,2012,2,7.6,56.0
+Money Heist,Sci-Fi,2007,1,7.5,17.0
+The Crown,Fantasy,2011,6,6.3,48.0
+You,Drama,2008,5,7.4,80.0
+Ozark,Thriller,2007,4,,74.0
+Stranger Things,Crime,2018,4,8.9,80.0
+Elite,Thriller,2020,1,7.4,
+Money Heist,,2018,2,,43.0
+Lupin,Comedy,2013,4,7.9,58.0
+The Witcher,Sci-Fi,2009,6,8.7,50.0
+Elite,Sci-Fi,2010,5,7.1,34.0
+Lupin,Crime,2009,6,7.9,49.0
+Sex Education,Action,2018,6,6.0,94.0
+Money Heist,Sci-Fi,2008,1,6.3,33.0
+Ozark,Drama,2022,2,,19.0
+The Witcher,Thriller,2016,3,7.6,31.0
+Black Mirror,Fantasy,2015,2,9.0,35.0
+Lucifer,Drama,2010,2,7.6,40.0
+Stranger Things,Comedy,2017,6,8.5,35.0
+Elite,Fantasy,2008,4,8.6,18.0
+Black Mirror,Drama,2010,1,7.9,43.0
+Breaking Bad,,2016,6,8.5,18.0
+Lucifer,Drama,2019,6,8.0,62.0
+The Umbrella Academy,Thriller,2021,6,8.5,
+Stranger Things,Crime,2017,5,8.4,33.0
+Lucifer,,2017,4,6.1,20.0
+Stranger Things,Comedy,2008,5,,48.0
+Black Mirror,Comedy,2022,4,6.1,
+Breaking Bad,Action,2009,2,8.7,18.0
+Breaking Bad,Fantasy,2007,4,7.7,55.0
+Black Mirror,Sci-Fi,2022,3,8.0,40.0
+Stranger Things,Crime,2011,2,7.4,94.0
+Elite,Drama,2009,5,6.2,95.0
+Lupin,Thriller,2015,5,8.2,86.0
+Stranger Things,Comedy,2019,4,9.2,55.0
+Stranger Things,Thriller,2008,6,,44.0
+The Witcher,Comedy,2022,2,8.1,64.0
+Dark,Comedy,2021,1,6.9,27.0
+Money Heist,Action,2010,1,7.7,70.0
+Breaking Bad,Action,2014,1,9.3,65.0
+The Crown,Fantasy,2010,6,8.8,67.0
+Elite,Crime,2007,4,7.0,47.0
+You,Crime,2011,2,8.7,81.0
+Elite,Crime,2010,5,7.8,
+Money Heist,,2007,2,9.3,18.0
+The Crown,Thriller,2007,5,6.1,16.0
+Black Mirror,Crime,2013,5,9.5,100.0
+The Witcher,Thriller,2019,5,6.3,27.0
+Money Heist,Action,2015,4,7.5,
+Money Heist,,2010,3,8.5,47.0
+Money Heist,Drama,2006,6,7.8,
+Ozark,Fantasy,2005,6,7.4,11.0
+Elite,Fantasy,2018,2,7.9,45.0
+Breaking Bad,Drama,2022,4,6.8,38.0
+Narcos,Action,2017,3,7.7,11.0
+Narcos,Crime,2015,3,9.2,
+Ozark,Thriller,2020,4,6.2,12.0
+Sex Education,Fantasy,2013,4,6.8,94.0
+Ozark,Comedy,2012,5,7.3,49.0
+The Witcher,Crime,2013,4,7.8,55.0
+The Umbrella Academy,Thriller,2007,4,7.6,
+The Witcher,,2010,1,7.0,83.0
+Breaking Bad,Action,2016,2,6.5,45.0
+Money Heist,Action,2018,3,8.2,28.0
+Dark,Comedy,2014,1,8.1,79.0
+The Umbrella Academy,Fantasy,2018,1,7.9,43.0
+The Crown,Fantasy,2005,2,,74.0
+Sex Education,Action,2008,5,7.4,48.0
+The Witcher,Crime,2013,1,,81.0
+You,Comedy,2022,3,6.8,17.0
+Breaking Bad,,2009,3,8.7,50.0
+Elite,Fantasy,2013,5,8.9,82.0
+Money Heist,Thriller,2017,1,,27.0
+Ozark,Crime,2010,3,,33.0
+The Crown,Comedy,2019,2,8.4,40.0
+The Umbrella Academy,Comedy,2015,2,9.5,80.0
+Lupin,Action,2006,3,6.4,
+Money Heist,Crime,2007,2,6.4,72.0
+Lucifer,Crime,2013,4,7.2,57.0
+Black Mirror,Fantasy,2008,1,,77.0
+Black Mirror,Action,2020,3,9.4,62.0
+Dark,Drama,2020,1,6.6,16.0
+Ozark,Thriller,2011,1,8.0,67.0
+Narcos,Drama,2015,3,7.3,37.0
+Money Heist,,2019,2,6.6,61.0
+The Umbrella Academy,Fantasy,2013,4,8.6,73.0
+You,Sci-Fi,2007,3,7.0,40.0
+The Umbrella Academy,Crime,2019,4,7.1,84.0
+Narcos,Drama,2022,2,6.9,100.0
+Money Heist,Drama,2006,6,8.1,48.0
+The Crown,,2022,5,8.7,31.0
+Elite,Sci-Fi,2010,3,8.9,16.0
+Ozark,Sci-Fi,2018,5,6.7,96.0
+Breaking Bad,Action,2007,6,9.0,92.0
+The Crown,Drama,2008,3,8.4,86.0
+Breaking Bad,Comedy,2005,1,7.4,
+Sex Education,,2017,4,7.2,42.0
+The Crown,Drama,2014,2,8.6,70.0
+Breaking Bad,Thriller,2015,2,6.9,88.0
+Lucifer,Action,2016,1,,61.0
+The Umbrella Academy,Action,2018,2,,69.0
+Lucifer,Fantasy,2012,6,9.3,15.0
+Narcos,Crime,2012,1,7.5,41.0
+The Witcher,,2008,6,8.9,40.0
+The Umbrella Academy,Comedy,2016,3,6.3,25.0
+Dark,Thriller,2007,2,9.1,52.0
+Black Mirror,Drama,2010,6,,71.0
+Breaking Bad,Action,2018,4,8.4,91.0
+Elite,Comedy,2021,2,8.5,100.0
+Dark,Crime,2020,2,,
+The Umbrella Academy,,2013,5,6.3,94.0
+Stranger Things,Drama,2008,5,,46.0
+Black Mirror,Action,2014,1,6.2,86.0
+Black Mirror,Drama,2012,2,8.6,14.0
+Ozark,Thriller,2012,3,9.0,56.0
+Narcos,Thriller,2013,2,7.8,93.0
+Stranger Things,Sci-Fi,2022,2,7.2,66.0
+The Crown,Action,2020,1,8.9,65.0
+Stranger Things,,2008,1,8.3,37.0
+The Witcher,Fantasy,2014,1,9.3,21.0
+You,Sci-Fi,2005,6,8.0,57.0
+The Umbrella Academy,Sci-Fi,2010,3,6.0,13.0
+Elite,Comedy,2009,5,8.2,13.0
+Elite,Thriller,2007,6,7.8,
+The Witcher,Sci-Fi,2022,5,9.1,82.0
+Lupin,Comedy,2009,1,7.3,94.0
+Lupin,Action,2017,2,6.3,10.0
+The Umbrella Academy,,2019,4,8.9,53.0
+The Umbrella Academy,Action,2009,3,9.3,40.0
+Black Mirror,Action,2013,5,9.0,22.0
+Stranger Things,Fantasy,2009,6,9.2,23.0
+Ozark,Action,2021,1,8.8,
+Narcos,Crime,2014,6,8.5,77.0
+Sex Education,Fantasy,2018,3,8.4,68.0
+The Crown,Fantasy,2019,6,6.9,36.0
+Lucifer,Drama,2011,1,8.9,94.0
+Ozark,Crime,2016,6,7.2,42.0
+Lupin,Thriller,2013,5,7.9,58.0
+Stranger Things,Thriller,2020,6,,
+Black Mirror,Sci-Fi,2022,6,6.4,24.0
+Dark,Sci-Fi,2014,3,6.6,43.0
+You,Sci-Fi,2015,5,8.0,20.0
+Breaking Bad,Comedy,2008,1,9.0,50.0
+The Umbrella Academy,Crime,2008,6,8.2,99.0
+Lucifer,Sci-Fi,2009,2,8.2,89.0
+The Crown,Comedy,2008,4,9.0,
+Elite,Drama,2010,1,6.1,24.0
+Dark,Sci-Fi,2020,3,8.6,89.0
+Lupin,Thriller,2020,5,6.2,
+Ozark,Crime,2009,4,9.5,44.0
+Dark,Action,2006,4,9.3,81.0
+The Umbrella Academy,Comedy,2014,1,6.7,10.0
+Breaking Bad,,2019,2,8.2,89.0
+Narcos,Comedy,2010,5,,29.0
+Stranger Things,Thriller,2010,3,9.0,27.0
+The Crown,Comedy,2010,4,6.2,42.0
+Dark,Crime,2010,3,6.9,22.0
+Lucifer,Fantasy,2020,5,8.6,
+Narcos,Drama,2011,1,7.0,41.0
+Money Heist,Fantasy,2022,5,9.3,25.0
+Stranger Things,Drama,2021,4,6.9,84.0
+Dark,Drama,2022,5,7.8,70.0
+The Crown,Crime,2015,3,6.0,70.0
+Lucifer,Crime,2014,4,6.5,85.0
+Lucifer,Comedy,2010,2,8.7,63.0
+Sex Education,Crime,2009,6,7.1,98.0
+Lupin,Fantasy,2009,5,6.3,53.0
+Elite,Drama,2013,2,7.4,22.0
+Money Heist,Fantasy,2020,4,8.7,
+Lucifer,Sci-Fi,2022,4,7.6,71.0
+The Umbrella Academy,Comedy,2010,3,8.2,68.0
+Elite,Crime,2011,1,6.8,80.0
+Black Mirror,Comedy,2010,5,8.1,53.0
+The Crown,,2005,5,,44.0
+You,Comedy,2021,6,6.4,14.0
+Ozark,Sci-Fi,2012,1,,40.0
+Lupin,Comedy,2015,3,7.7,
+Narcos,Action,2008,1,,55.0
+Dark,Fantasy,2011,3,6.6,13.0
+Dark,Thriller,2017,3,7.6,72.0
+Stranger Things,Sci-Fi,2021,6,6.6,73.0
+Stranger Things,,2017,3,8.6,97.0
+Stranger Things,Thriller,2007,2,7.0,93.0
+Narcos,Drama,2019,1,8.4,64.0
+Money Heist,Thriller,2015,6,,78.0
+Lupin,Thriller,2014,4,8.9,48.0
+The Witcher,Action,2016,4,8.0,36.0
+The Witcher,Crime,2014,2,8.2,36.0
+The Crown,Crime,2008,5,6.8,46.0
+Ozark,Fantasy,2010,5,8.8,79.0
+The Crown,Drama,2018,6,7.8,22.0
+Lupin,,2016,2,,80.0
+Money Heist,Crime,2010,1,,53.0
+Narcos,Comedy,2019,4,,68.0
+You,Thriller,2016,1,9.0,51.0
+Sex Education,Thriller,2022,5,8.7,53.0
+Elite,,2022,1,7.3,36.0
+The Witcher,Thriller,2006,3,8.7,35.0
+Sex Education,Action,2007,2,8.5,21.0
+Stranger Things,Sci-Fi,2017,1,7.0,54.0
+Ozark,Comedy,2009,2,,29.0
+The Umbrella Academy,Action,2006,2,6.1,98.0
+Ozark,Action,2005,2,8.3,
+You,Fantasy,2009,6,7.7,57.0
+Dark,Crime,2015,6,8.8,89.0
+The Crown,,2015,2,8.1,70.0
+Breaking Bad,,2005,2,7.2,
+Narcos,Drama,2021,2,,26.0
+The Crown,Sci-Fi,2017,5,7.0,67.0
+The Crown,Action,2021,5,9.2,54.0
+Lucifer,Sci-Fi,2006,3,6.1,94.0
+The Witcher,,2018,1,,50.0
+Lucifer,Comedy,2019,2,8.5,94.0
+The Crown,Crime,2017,2,8.2,79.0
+Ozark,Action,2012,6,9.5,25.0
+You,Sci-Fi,2014,2,6.5,53.0
+Lupin,,2007,6,9.3,25.0
+Lucifer,Comedy,2018,5,6.3,
+Stranger Things,Fantasy,2014,4,9.1,26.0
